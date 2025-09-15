@@ -81,8 +81,7 @@ Setelah menginstal dependensi,
    ```
 
 5. **Jika berhasil, Anda akan melihat teks ASCII art dari figlet dan pesan dari cowsay di terminal.**
-
-![Hasil Screenshot ASCII art](./image.png)
+<img width="712" height="682" alt="image" src="https://github.com/user-attachments/assets/3d2bf166-f9c6-467e-85d8-a75b5a946077" />
 
 ---
 
