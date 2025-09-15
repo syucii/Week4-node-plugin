@@ -48,16 +48,8 @@ Ikuti langkah-langkah berikut untuk menginstal dependensi pada project ini:
 
 Setelah menginstal dependensi, 
 
-1. **Buat file utama aplikasi, misalnya `app.js`:**
-   ```sh
-   touch app.js
-   ```
-   > Jika menggunakan Windows Command Prompt, gunakan:
-   > ```sh
-   > type nul > app.js
-   > ```
-
-2. **Buka file `app.js` dan tambahkan kode berikut sebagai contoh penggunaan dependensi:**
+1. **Buat file utama pada vscode, `app.js`:**
+2. **Buka file `app.js` dan pada code di bawah merupakan contoh penggunaan dependensi:**
    ```js
    // app.js
    const chalk = require('chalk');
@@ -83,16 +75,12 @@ Setelah menginstal dependensi,
      );
    });
    ```
-
-3. **Simpan file tersebut.**
-
-4. **Jalankan aplikasi:**
-   ```sh
-   node app.js
+3. Run program pada cmd
+      ```sh
+   
    ```
 
 5. **Jika berhasil, Anda akan melihat teks ASCII art dari figlet dan pesan dari cowsay di terminal.**
-[./image.png](Hasil Screenshot ASCII art)
 
 ---
 
