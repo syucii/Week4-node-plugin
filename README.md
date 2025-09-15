@@ -82,9 +82,7 @@ Setelah menginstal dependensi,
 
 5. **Jika berhasil, Anda akan melihat teks ASCII art dari figlet dan pesan dari cowsay di terminal.**
 
-```markdown
 ![Hasil Screenshot ASCII art](./image.png)
-```
 
 ---
 
